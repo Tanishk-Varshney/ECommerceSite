@@ -8,7 +8,7 @@
     "start": "nodemon server.js",
     "dev": "nodemon server.js"
   },
-  "author": "sangam mukherjee",
+  "author": "Tanishk Varshney",
   "license": "ISC",
   "dependencies": {
     "auth-routes": "^0.0.1",
